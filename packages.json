@@ -2,5 +2,10 @@
     {
         "package": "raddins",
         "url": "https://github.com/gk-crop/raddins"
+    },
+    {
+        "package": "simplace",
+        "url": "https://github.com/gk-crop/simplace_rpkg"
     }
+    
 ]
