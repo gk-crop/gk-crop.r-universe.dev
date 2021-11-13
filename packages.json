@@ -6,6 +6,10 @@
     {
         "package": "simplace",
         "url": "https://github.com/gk-crop/simplace_rpkg"
+    },
+    {
+        "package": "rmdutil",
+        "url": "https://github.com/gk-crop/rmdutil"
     }
     
 ]
