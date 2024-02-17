@@ -18,6 +18,10 @@
     {
         "package": "simplaceUtil",
         "url": "https://github.com/gk-crop/simplaceUtil"
+    },
+    {
+        "package": "rdav",
+        "url": "https://github.com/gk-crop/rdav"
     }
     
 ]
